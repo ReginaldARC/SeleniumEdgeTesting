@@ -1,6 +1,7 @@
 
 edgedriver_win64.zip
 msedgedriver.exe
+Driver_Notes/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
